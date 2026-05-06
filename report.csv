@@ -1,0 +1,21 @@
+name,email,subject,status
+Alice Johnson,alice@example.com,Reminder: Appraisal Form Pending,sent
+Bob Smith,bob@example.com,Reminder: Client Follow-Up Due,sent
+Carol White,carol@example.com,Reminder: Invoice Review Needed,sent
+David Lee,david@example.com,Reminder: Server Certificate Expiry,sent
+Emma Davis,emma@example.com,Reminder: Onboarding Checklist Incomplete,sent
+Frank Miller,frank@example.com,Reminder: Product Demo Not Sent,sent
+Grace Wilson,grace@example.com,Reminder: Campaign Report Overdue,sent
+Henry Moore,henry@example.com,Reminder: Standup Not Scheduled,sent
+Isla Taylor,isla@example.com,Reminder: Budget Request Approval Pending,sent
+James Anderson,james@example.com,Reminder: Login Bug Still Open,sent
+Karen Thomas,karen@example.com,Reminder: Employee Records Outdated,sent
+Liam Jackson,liam@example.com,Reminder: Contract Renewal Deadline,sent
+Mia Harris,mia@example.com,Reminder: Social Media Post Pending,sent
+Nathan Clark,nathan@example.com,Reminder: Office Supplies Running Low,sent
+Olivia Lewis,olivia@example.com,Reminder: Monthly Accounts Unreconciled,sent
+Peter Walker,peter@example.com,Reminder: App Deployment Pending,sent
+Quinn Hall,quinn@example.com,Reminder: Exit Interview Unscheduled,sent
+Rachel Young,rachel@example.com,Reminder: Q3 Sales Report Due,sent
+Samuel King,samuel@example.com,Reminder: Newsletter Design Pending,sent
+Tina Wright,tina@example.com,Reminder: Project Tracker Outdated,sent
